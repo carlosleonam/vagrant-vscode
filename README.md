@@ -1,7 +1,7 @@
 # vagrant-vscode
 ## Debug PHP project hosted on Vagrant VM with VSCode (Visual Studio Code)
 
-I was use this environment:
+I'm using this environment:
 - Vagrant Hosted on Windows 7 (called "Host")
 - PHP 7.1 install on **Host**
 - VM based on Ubuntu 14.04
