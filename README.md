@@ -15,9 +15,10 @@ If result like this:
 ```
 with Xdebug v2.5.5, Copyright (c) 2002-2017, by Derick Rethans
 ```
-Xdebug is enabled on your VM. Otherwise, install it follow any of instructions links:
+It's OK, Xdebug is enabled on your VM. 
 
-_Xdebug on Ubuntu 16.04 with PHP7
-http://www.dieuwe.com/blog/xdebug-ubuntu-1604-php7_
+Otherwise, install it follow any of instructions links:
+
+- _Xdebug on Ubuntu 16.04 with PHP7 (http://www.dieuwe.com/blog/xdebug-ubuntu-1604-php7)_
 
 
